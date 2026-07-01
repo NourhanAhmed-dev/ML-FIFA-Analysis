@@ -1,6 +1,6 @@
-Pandas version >= 2.3.3
-Numpy version >= 2.2.6
-Matplotlib version >= 3.10.7
-Seaborn version >= 0.13.2
-Scikit-learn version >= 1.7.2
-Category_encoders >= 2.9.0
+Pandas version == 2.3.3
+Numpy version == 2.2.6
+Matplotlib version == 3.10.7
+Seaborn version == 0.13.2
+Scikit-learn version == 1.7.2
+Category_encoders == 2.9.0
