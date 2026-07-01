@@ -49,4 +49,3 @@ Place `Fifa.csv` in the same directory as the notebook, then run top to bottom.
 
 - All train/test splits and cross-validation folds use `random_state=42`.
 - `GridSearchCV` searches and the final `StackingClassifier`/`StackingRegressor` use 5-fold CV internally; expect a noticeable runtime for those cells on the full dataset.
-- Before publishing further changes, do a full **Restart & Run All** and re-check that any hardcoded result numbers in markdown cells still match the printed output.
